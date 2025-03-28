@@ -6,3 +6,12 @@ int som(int x, int y)
 }
 
 Console.WriteLine($"2 + 3 = {som(2, 3)}");
+
+bool sup(int x, int y)
+{
+    return x >= y 
+        ? true 
+        : false;
+}
+
+Console.WriteLine($"6 >= 3 = {sup(6, 3)}");
