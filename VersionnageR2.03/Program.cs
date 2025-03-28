@@ -24,7 +24,3 @@ int opposer(int x)
 
 Console.WriteLine($"l'opposé de 7 = {opposer(7)}");
 
-int moy(int x, int y)
-{
-    return (x + y) / 2;
-}
