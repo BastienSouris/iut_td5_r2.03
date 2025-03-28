@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
 int som(int x, int y)
 {
@@ -22,3 +23,4 @@ int opposer(int x)
 }
 
 Console.WriteLine($"l'opposé de 7 = {opposer(7)}");
+
